@@ -1,0 +1,17 @@
+{
+  "name": "stage8a",
+  "version": "1.0.0",
+  "description": "Append-only event store with in-memory byte-offset index",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "uuid": "^14.0.0"
+  }
+}
